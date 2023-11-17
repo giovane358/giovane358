@@ -1,8 +1,6 @@
 ### Olá, me chamo Giovane Santos.
 
-<hr>
-  
-</hr>
+<hr widht="150"></hr>
 
 
 
