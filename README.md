@@ -1,6 +1,8 @@
 ### Olá, me chamo Giovane Santos.
 
-<hr widht="50"></hr>
+<hr width="70%"
+        size="20" color="blue"
+        noshade> 
 
 
 
