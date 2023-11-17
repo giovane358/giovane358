@@ -6,18 +6,21 @@
 
 <div dsplay="inline-block">
         <hr width="70%" size="20" noshade> 
-        <img align = "center" alt = "HTML" height = "40" width = "40" src = "https://imgur.com/eFLDvy5.png">
-        <img align = "center" alt = "HTML" height = "40" width = "40" src = "https://imgur.com/nXqhCXa.png">
+        <img align = "center" alt = "Instagram" height = "40" width = "40" src = "https://imgur.com/eFLDvy5.png">
+        <img align = "center" alt = "Linkedin" height = "40" width = "40" src = "https://imgur.com/nXqhCXa.png">
 </div>
 
 </br>
 </br>
 
-## Sobre mim.
+### Sobre mim.
 
 #Tenho 21 anos, sou apaixonado por desenvolvimento mobile procuro sempre aprender novas linguagem e tecnologia.
 
 ### 🖥️ Tecnologias e Ferramentas: 
+</br>
+</br>
+
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title = "Android Studio"/></code>
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title = "Flutter"/></code>
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title = "Dart"/></code>
@@ -27,3 +30,11 @@
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title = "SQL"/></code>
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHub"/></code>
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+
+</br>
+</br>
+
+<div display="inline-block">
+        <p align="left">📚 Tenho estudado Dart e Kotlin.</p>
+</div>
+
