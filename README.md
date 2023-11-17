@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://imgur.com/YUWVjlp.png">
+<img align="right" width="250px" style="margin-top:-20px" src="https://imgur.com/undefined.png">
 
 
 ### Olá, me chamo Giovane Santos.
