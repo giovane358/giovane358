@@ -22,8 +22,8 @@
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title = "Flutter"/></code>
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title = "Dart"/></code>
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C++"/></code>
-<code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>        
-<code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "Spring"/></code>  
-<code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title = "SQL"/></code>   
-<code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.sv" title = "GITHub"/></code> 
-<code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code> 
+<code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "Java"/></code>
+<code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "Spring"/></code>
+<code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title = "SQL"/></code>
+<code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHub"/></code>
+<code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
