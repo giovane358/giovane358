@@ -15,7 +15,7 @@
 
 ### Sobre mim.
 
-#Tenho 21 anos, sou apaixonado por desenvolvimento mobile procuro sempre aprender novas linguagem e tecnologia.
+## Tenho 21 anos, sou apaixonado por desenvolvimento mobile procuro sempre aprender novas linguagem e tecnologia.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 </br>
