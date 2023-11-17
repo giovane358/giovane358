@@ -19,8 +19,6 @@
 
 ### 🖥️ Tecnologias e Ferramentas: 
 </br>
-</br>
-
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title = "Android Studio"/></code>
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title = "Flutter"/></code>
 <code><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title = "Dart"/></code>
