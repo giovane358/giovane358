@@ -14,13 +14,13 @@
 
 ###
 
-<p align="left">My name is Giovane Santos, I'm 21 years old, and I'm passionate about technology.<\br>
+<p align="left">My name is Giovane Santos, I'm 21 years old, and I'm passionate about technology.
 
-I'm currently a second-semester Software Engineering student at Eniac University, where I've been honing my knowledge of systems development and software architecture.<\br>
+I'm currently a second-semester Software Engineering student at Eniac University, where I've been honing my knowledge of systems development and software architecture.
 
-I have a degree in Systems Development Technician from ETEC Prof. Horácio Augusto da Silveira and a degree in Occupational Safety Technician from SENAC. This has provided me with a multidisciplinary education, combining logical reasoning, critical thinking, and professional responsibility.<\br>
+I have a degree in Systems Development Technician from ETEC Prof. Horácio Augusto da Silveira and a degree in Occupational Safety Technician from SENAC. This has provided me with a multidisciplinary education, combining logical reasoning, critical thinking, and professional responsibility.
 
-I focus on continuous learning and strive for constant advancement in the development field, with an emphasis on back-end development using Java and mobile development with Flutter.<\br>
+I focus on continuous learning and strive for constant advancement in the development field, with an emphasis on back-end development using Java and mobile development with Flutter.
 
 My goal is to work on projects that challenge my skills, enable professional growth, and contribute to impactful technological solutions.</p>
 
