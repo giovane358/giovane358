@@ -24,15 +24,6 @@ I focus on continuous learning and strive for constant advancement in the develo
 
 My goal is to work on projects that challenge my skills, enable professional growth, and contribute to impactful technological solutions.</p>
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/giovanessantos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
