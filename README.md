@@ -2,11 +2,8 @@
 
 ###
 
-<h6 align="center">📱 Developer Mobile | 💻Developer back-end</h6>
+<h6 align="center"> Developer Mobile | Developer back-end</h6>
 
-###
-
-<h5 align="left">About me.</h5>
 
 ###
 
